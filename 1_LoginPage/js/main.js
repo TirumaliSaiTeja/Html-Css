@@ -1,5 +1,5 @@
 const inputs = document.querySelectorAll(".input");
-
+// querying the whole document 
 
 function addcl(){
 	let parent = this.parentNode.parentNode;
